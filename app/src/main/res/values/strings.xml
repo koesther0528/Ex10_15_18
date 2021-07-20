@@ -4,4 +4,8 @@
     <string name="btn_back">돌아가기</string>
     <string name="title_main">MainActivity</string>
     <string name="title_second">SecondActivity</string>
+    <string name="rb_m">빼기</string>
+    <string name="rb_x">곱하기</string>
+    <string name="rb_a">나누기</string>
+    <string name="btn">계산하기</string>
 </resources>
