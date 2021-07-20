@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ex10_15_18</string>
+    <string name="btn_plus">더하기</string>
+    <string name="btn_back">돌아가기</string>
+    <string name="title_main">MainActivity</string>
+    <string name="title_second">SecondActivity</string>
 </resources>
